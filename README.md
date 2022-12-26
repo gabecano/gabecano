@@ -5,7 +5,7 @@
 - 📫 How to reach me ... 
 -         gabecano@email.com
 -         https://www.patreon.com/gabecano
--         https://www.fiverr.com/gabriel_cano
+-         https://www.upwork.com/freelancers/~01793edc8e174f7912
 
 <!---
 gabecano/gabecano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
